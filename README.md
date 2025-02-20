@@ -1,6 +1,6 @@
 # React Calculator
 
-![React Calculator](https://user-images.githubusercontent.com/your-image.png)
+# ![React Calculator](https://fantastic-bublanina-f8030e.netlify.app/)
 
 A sleek and powerful calculator built with React.js! This project showcases a modern, interactive, and responsive calculator that performs basic arithmetic operations with style. 🚀
 
@@ -56,5 +56,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-🔥 Made with passion by [Your Name](https://github.com/yourusername) ✨
+🔥 Made with passion by [Musie](https://github.com/Musie480) ✨
 
