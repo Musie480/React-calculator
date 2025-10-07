@@ -21,7 +21,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/react-calculator.git
+git clone https://github.com/musie480/react-calculator.git
 cd react-calculator
 ```
 
